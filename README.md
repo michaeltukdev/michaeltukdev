@@ -4,4 +4,6 @@ Hello there! My name is Michael, a 19-year-old fullstack developer based in the 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkiiko)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.imgur.com/SrwWPaI.png">
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,rust,sqlite,stackoverflow,tailwind,unity,vscode,wordpress,github,bootstrap,figma,xd,cpp,cloudflare,discord,ae,azure,aws&perline=8" alt="Technologies and Tools I use" />
+</div>

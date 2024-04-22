@@ -1,9 +1,21 @@
-![Banner](https://i.imgur.com/SrwWPaI.png)
+```php
+class AboutMichael {
+    public $name = "Michael Tiley";
+    public $profession = "Student";
 
-Hello there! My name is Michael, a 19-year-old fullstack developer based in the United Kingdom. My area of expertise lies in website development, and I am presently pursuing Computer Science studies at the university level. I primarily work with PHP but am also diving into languages such as Rust, Go Lang and C++.
+    public $techStack = [
+        "frontend" => ["Javascript", "Bootstrap", "Tailwind", "ReactJS"],
+        "backend" => ["PHP", "Laravel", "Laravel Livewire"],
+        "databases" => ["MySQL", "SQLite", "PostgreSQL", "MongoDB"],
+        "devops" => ["Git", "Docker", "Vercel", "Laravel Forge"]
+    ];
+}
+```
 
------
+I am passionate about solving problems and enjoy working on cool open-source projects. I particularly enjoy working with the [Tall Stack](https://tallstack.dev/) enabling me to create feature rich, dynamic.
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,rust,sqlite,stackoverflow,tailwind,unity,vscode,wordpress,github,bootstrap,figma,xd,cpp,cloudflare,discord,ae,azure,aws&perline=8" alt="Technologies and Tools I use" />
-</div>
+## Find me around
+
+- Learning in public on (michaelt.uk)[https://michaelt.uk]
+- Focusing on (Forumly)[https://github.com/michaeltukdev/Forumly]
+- Always learning

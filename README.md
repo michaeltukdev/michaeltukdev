@@ -1,6 +1,6 @@
 ```php
-class AboutMichael {
-    public $name = "Michael Tiley";
+class About {
+    public $name = "Michael Tilley";
     public $profession = "Student";
 
     public $techStack = [

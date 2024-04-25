@@ -12,10 +12,10 @@ class About {
 }
 ```
 
-I am passionate about solving problems and enjoy working on cool open-source projects. I particularly enjoy working with the [Tall Stack](https://tallstack.dev/) enabling me to create feature rich, dynamic.
+I am passionate about solving problems and enjoy working on cool open-source projects. I particularly enjoy working with the [Tall Stack](https://tallstack.dev/) enabling me to create feature rich, dynamic web applications.
 
 ## Find me around
 
 - Learning in public on [michaelt.uk](https://michaelt.uk)
-- Focusing on [Forumly](https://github.com/michaeltukdev/Forumly)
+- Focusing on [Forumly](https://github.com/michaeltukdev/Forumly) & BreezeUI
 - Always learning

@@ -17,5 +17,5 @@ I am passionate about solving problems and enjoy working on cool open-source pro
 ## Find me around
 
 - Learning in public on [michaelt.uk](https://michaelt.uk)
-- Focusing on [Forumly](https://github.com/michaeltukdev/Forumly) & BreezeUI
+- Focusing on University, all projects on hold :(
 - Always learning

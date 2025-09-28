@@ -29,7 +29,7 @@ I love building **open-source projects**, exploring cloud-native computing, and 
 
 ## Projects
 
-- **[Obsero](https://github.com/michaeltukdev/Obsero)** - A distributed server monitor and analytics platform.
+- **[Obsero](https://github.com/michaeltukdev/Obsero)** — A distributed server monitor and analytics platform.
 - **[Potok](https://github.com/michaeltukdev/Potok)** — A self-hosted Obsidian cross-device file syncer.
 - **[Vestnik](https://github.com/michaeltukdev/Vestnik)** — A terminal-based RSS feed aggregator built with Bubble Tea and Lip Gloss.
 

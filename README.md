@@ -1,21 +1,55 @@
-```php
-class About {
-    public $name = "Michael Tilley";
-    public $profession = "Student";
+```go
+type About struct {
+    Name       string
+    Location   string
+    Profession string
+    Interests  []string
+    TechStack  map[string][]string
+    OpenSource bool
+}
 
-    public $techStack = [
-        "frontend" => ["Javascript", "Bootstrap", "Tailwind", "ReactJS"],
-        "backend" => ["PHP", "Laravel", "Laravel Livewire"],
-        "databases" => ["MySQL", "SQLite", "PostgreSQL", "MongoDB"],
-        "devops" => ["Git", "Docker", "Vercel", "Laravel Forge"]
-    ];
+var about = About{
+    Name:       "Michael Tilley",
+    Location:   "United Kingdom",
+    Profession: "Student / Software Engineer",
+    Interests:  []string{"Open Source", "Cloud Security", "Web Development"},
+    TechStack: map[string][]string{
+        "frontend":  {"Javascript", "Bootstrap", "Tailwind", "ReactJS"},
+        "backend":   {"PHP", "Laravel", "Laravel Livewire"},
+        "databases": {"MySQL", "SQLite", "PostgreSQL", "MongoDB"},
+        "devops":    {"Git", "Docker", "Vercel", "Laravel Forge"},
+    },
+    OpenSource: true,
 }
 ```
 
-I am passionate about solving problems and enjoy working on cool open-source projects. I particularly enjoy working with the [Tall Stack](https://tallstack.dev/) enabling me to create feature rich, dynamic web applications.
+Hi, I'm **Michael**!  
+I'm a final-year Computer Science student and software engineer from <img src="https://emojis.slackmojis.com/emojis/images/1643513064/38180/british.png?1643513064" width="13"/> United Kingdom.  
+I love building **open-source projects**, exploring cloud-native computing, and pushing the boundaries of memory and system security.
 
-## Find me around
+## Projects
 
-- Learning in public on [michaelt.uk](https://michaelt.uk)
-- Focusing on University and Iskra
-- Always learning
+- **[Obsero](https://github.com/michaeltukdev/Obsero)** - A distributed server monitor and analytics platform.
+- **[Potok](https://github.com/michaeltukdev/Potok)** — A self-hosted Obsidian cross-device file syncer.
+- **[Vestnik](https://github.com/michaeltukdev/Vestnik)** — A terminal-based RSS feed aggregator built with Bubble Tea and Lip Gloss.
+
+## Thoughts
+
+I occasionally write here and [on michaelt.uk](https://michaelt.uk):
+
+- “X” _(coming soon)_
+- “X” _(coming soon)_
+
+## Get in Touch
+
+<p>
+  <a href="https://github.com/michaeltukdev" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://x.com/michaelt_uk" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/hYYdeKDyEX" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
